@@ -4,20 +4,38 @@ This project presents an AI-powered tool to detect and classify **tomato plant d
 
 ## 🚀 Features
 
-- Deep learning model (EfficientNetB0) trained on PlantVillage dataset
-- Streamlit web interface for real-time disease detection
-- Grad-CAM heatmaps for model explainability
-- Optimized for mobile and low-resource environments
-- Supports offline usage and geotagged logging
+- EfficientNetB0 transfer learning model
+- Streamlit app for real-time image classification
+- Grad-CAM explainability (optional)
+- Optimized for mobile/low-bandwidth use
+- Offline support
 
-## 🧠 Model Architecture
+## 📦 Project Structure
 
-- Model: EfficientNetB0 (Transfer Learning)
-- Input Size: 224x224
+- `app/`: Streamlit app and model
+- `notebooks/`: Model training code
+- `data/`: Dataset info
+- `docs/`: Project report
+- `results/`: Accuracy/loss charts and confusion matrix
+
+## 💻 Run Locally
+
+1. Clone the repo or download ZIP
+2. Install dependencies:
+3. Run the app:
+
+## 📊 Model Details
+
+- Input shape: 224x224x3
 - Optimizer: Adam
 - Loss: Categorical Crossentropy
 - Accuracy: ~98.3% on test data
 
-## 📂 Project Structure
+## 📜 License
 
-...
+This project is licensed under the MIT License.
+
+## 👥 Authors
+
+- Vinodh S, Haani Noorain Shafi, Devaraj N, Darshan S Gejji, Siddiq Ahmed  
+- Guide: Mr. Yamanappa, Presidency University
