@@ -39,3 +39,9 @@ This project is licensed under the MIT License.
 
 - Vinodh S, Haani Noorain Shafi, Devaraj N, Darshan S Gejji, Siddiq Ahmed  
 - Guide: Mr. Yamanappa, Presidency University
+
+## MODEL LINK
+https://drive.google.com/file/d/19x8yIbUkqtCGT-9Hm1uMdJQlGjYGsenW/view?usp=sharing
+DOWNLOAD THE MODEL FOR EASY USE ,DIRECTLY UPLOAD IN COLAB AND START WITH FRONTEND WITH STREAMLIT OR GRADIO INTERFACE
+
+## model
